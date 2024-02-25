@@ -1,0 +1,15 @@
+{
+  "name": "devinettes-api",
+  "version": "1.0.0",
+  "description": "API Devinettes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lexdrane",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}
